@@ -43,7 +43,7 @@
 
 <!-- Trophies -->
 <p align="right">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Poonam-3092&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=1&margin-h=0" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Poonam-3092&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=1&margin-h=1" />
 </p>
 
 ---
