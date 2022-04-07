@@ -1,4 +1,5 @@
-![Banner Image](./banner.jpg)
+<!-- ![Banner Image](./banner.jpg) -->
+<img align="center" alt="Coding" width="1000" height="190" src="./banner.jpg">
 
 <h1 align="center">Hi 👋, I'm Poonam Bhilare</h1>
 <h3 align="center">I'm a Learner! I believe one should never stop learning because life never stops teaching. I am intrested in web development. Love to explore different things to develop myself. CS Student!!</h3>
